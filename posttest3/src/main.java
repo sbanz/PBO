@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+
 public class main{
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static ArrayList<first_team> ft = new ArrayList<first_team>();
